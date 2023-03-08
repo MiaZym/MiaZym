@@ -13,7 +13,6 @@
 
 
 
-I additionally study at the Center for Mathematical Finance
 
 
 
