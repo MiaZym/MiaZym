@@ -24,7 +24,11 @@
  
 Я всегда открыта новым идеям и возможностям для сотрудничества.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=miazyw&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=miazyw&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p> -->
+
+<p align="left">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=miazyw.README.md" alt="Visitor Count">
 </p>
 
 <!-- THE END -->
