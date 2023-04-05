@@ -28,7 +28,7 @@
 </p> -->
 
 <p align="left">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=miazyw.README.md" alt="Visitor Count">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=miazyw.visitor-badge" alt="Visitor Count">
 </p>
 
 <!-- THE END -->
