@@ -16,7 +16,7 @@
 - [Modeling Tails of Distributions by Importance Sampling: Application in Risk-Management](https://github.com/MiaZym/importance-sampling-2022)
 
 А также мои учебные проекты:
-- [Другие роекты для закрепления знаний по машинному обучению](https://github.com/MiaZym/Machine_learning)
+- [Другие gроекты для закрепления знаний по машинному обучению](https://github.com/MiaZym/Machine_learning)
 - [Другие проекты по анализу данных](https://github.com/MiaZym/Data-Science)
 
 
