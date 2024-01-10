@@ -18,6 +18,7 @@
 А также мои учебные проекты:
 - [Другие проекты для закрепления знаний по машинному обучению](https://github.com/MiaZym/Machine_learning)
 - [Другие проекты по анализу данных](https://github.com/MiaZym/Data-Science)
+- [Веб-сайт для клуба виртуальной реальности](https://github.com/MiaZym/Virtual-Reality-Club-Website)
 
 
 <h2></h3>
